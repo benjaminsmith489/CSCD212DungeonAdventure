@@ -1,0 +1,15 @@
+Ideas for dungeon charactor implementations
+
+   interfaces for attacking type, special type,
+  
+  linked lists to maintain multiple charactors or monsters heroArray, monsterArray
+  
+  town menu with items 
+  
+  saving possiblities with plain text charator saves
+  
+  randomize intstantiation 
+  
+  read keyboard to understand more the concept
+  
+  
