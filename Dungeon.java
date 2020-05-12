@@ -47,7 +47,7 @@ public class Dungeon
 {
     public static void main(String[] args)
 	{
-
+      int tryHere = 4; //----------------------------------------------
 		Hero theHero;
 		Monster theMonster;
 
